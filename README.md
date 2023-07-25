@@ -1,6 +1,7 @@
 # LinkedIn - JavaScript Essential Training | Playground 
 
 > Certificate of Completion
+> 
 > ![LinkedIn-JavascriptEssentialTraining](https://github.com/sue-lim/javascript-essential-training-2832077/assets/113986306/1b317993-b50a-4af0-96bd-ddd689875a00)
 
 This is the repository for the LinkedIn Learning course JavaScript Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
